@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-libre-caslon-text: "Libre Caslon Text";
+  --font-krona-one: "Krona One";
+  --font-abel: Abel;
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-mini: 0.938rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-smi: 0.813rem;
+  --font-size-31xl: 3.125rem;
+  --font-size-11xl: 1.875rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-4xl: 1.438rem;
+
+  /* Colors */
+  --color-gray-100: #262626;
+  --color-gray-200: rgba(255, 255, 255, 0.57);
+  --color-white: #fff;
+  --color-olivedrab-100: #66952e;
+  --color-darkslategray: #122d51;
+  --color-gainsboro-100: #d9d9d9;
+  --color-black: #000;
+  --color-darkslateblue-100: #002559;
+  --color-lightgreen: #74cd76;
+
+  /* Gaps */
+  --gap-xl: 1.25rem;
+  --gap-base: 1rem;
+  --gap-3xl: 1.375rem;
+  --gap-lg: 1.125rem;
+  --gap-2xl: 1.313rem;
+  --gap-6xl: 1.563rem;
+  --gap-4xs: 0.563rem;
+  --gap-40xl-5: 3.719rem;
+
+  /* Paddings */
+  --padding-74xl: 5.813rem;
+  --padding-70xl: 5.563rem;
+  --padding-xl: 1.25rem;
+  --padding-41xl: 3.75rem;
+  --padding-39xl: 3.625rem;
+  --padding-24xl: 2.688rem;
+  --padding-25xl: 2.75rem;
+  --padding-12xl: 1.938rem;
+  --padding-5xl: 1.5rem;
+  --padding-86xl: 6.563rem;
+  --padding-lgi: 1.188rem;
+  --padding-33xl: 3.25rem;
+  --padding-smi: 0.813rem;
+  --padding-13xl: 2rem;
+  --padding-2xs: 0.688rem;
+  --padding-20xl: 2.438rem;
+  --padding-7xl: 1.625rem;
+  --padding-34xl: 3.313rem;
+  --padding-2xl: 1.313rem;
+  --padding-4xs: 0.563rem;
+  --padding-3xs: 0.625rem;
+  --padding-4xl: 1.438rem;
+  --padding-8xl: 1.688rem;
+  --padding-base: 1rem;
+  --padding-6xl: 1.563rem;
+  --padding-3xl: 1.375rem;
+  --padding-5xs: 0.5rem;
+  --padding-15xl: 2.125rem;
+  --padding-11xl: 1.875rem;
+  --padding-22xl: 2.563rem;
+  --padding-29xl: 3rem;
+  --padding-21xl: 2.5rem;
+  --padding-14xl: 2.063rem;
+  --padding-3xs-9: 0.619rem;
+  --padding-10xl: 1.813rem;
+  --padding-12xs: 0.063rem;
+  --padding-smi-6: 0.788rem;
+  --padding-lg: 1.125rem;
+  --padding-8xs-3: 0.269rem;
+  --padding-27xl: 2.875rem;
+  --padding-19xl: 2.375rem;
+
+  /* Border radiuses */
+  --br-29xl: 48px;
+  --br-46xl: 65px;
+  --br-12xs: 1px;
+  --br-16xl: 35px;
+}
